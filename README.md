@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+
 <!--
 **ShinHoChull/ShinHoChull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
