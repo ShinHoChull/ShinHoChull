@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinHoChull&count_bg=%2361C713&title_bg=%23981111&icon=&icon_color=%23B61515&title=hits&edge_flat=false)](https://github.com/ShinHoChull) 
 
-https://img.shields.io/github/followers/ShinHoChull?style=social
+[https://img.shields.io/github/followers/ShinHoChull?style=social]
 
 <!--
 **ShinHoChull/ShinHoChull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
